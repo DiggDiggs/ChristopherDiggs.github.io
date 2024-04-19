@@ -1,7 +1,5 @@
 # Christopher Diggs - Personal Website
 
-![Personal Website Screenshot](screenshot.png)
-
 ## About Me
 Hey there! I'm Christopher Diggs, a passionate developer with a love for crafting beautiful and functional websites. My journey in web development has been fueled by a desire to blend creativity with technology, resulting in unique and immersive online experiences. Connect with me on [LinkedIn](www.linkedin.com/in/christopher-a-diggs) to learn more about my professional journey and explore my projects on [GitHub](https://github.com/DiggDiggs).
 
