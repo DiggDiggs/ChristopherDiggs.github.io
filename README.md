@@ -1,4 +1,5 @@
 # Christopher Diggs - Personal Website
+![Screenshot 2024-04-18 213000](https://github.com/DiggDiggs/ChristopherDiggs.github.io/assets/65854363/e906e969-5e31-414c-89b5-b21512f60233)
 
 ## About Me
 Hey there! I'm Christopher Diggs, a passionate developer with a love for crafting beautiful and functional websites. My journey in web development has been fueled by a desire to blend creativity with technology, resulting in unique and immersive online experiences. Connect with me on [LinkedIn](www.linkedin.com/in/christopher-a-diggs) to learn more about my professional journey and explore my projects on [GitHub](https://github.com/DiggDiggs).
